@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/appIcons">
+        <file>delete.png</file>
+        <file>editing.png</file>
+        <file>sign.png</file>
+        <file>others.png</file>
+        <file>others_select.png</file>
+        <file>all.png</file>
+        <file>all_select.png</file>
+        <file>restaurant.png</file>
+        <file>restaurant_select.png</file>
+        <file>sleeping.png</file>
+        <file>sleeping_select.png</file>
+        <file>transport.png</file>
+        <file>transport_select.png</file>
+    </qresource>
+</RCC>

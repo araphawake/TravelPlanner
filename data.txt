@@ -1,0 +1,45 @@
+0
+Souvenirs
+45
+0
+Visit to Cristo Redentor
+33.56
+2
+Plane from Paris to Lisbon
+200.78
+2
+Plane from Lisbon to Rio de Janeiro
+603.11
+2
+Metro in Rio de Janeiro
+50.99
+1
+Copacabana Palace
+1000.99
+3
+Vila Noventa Restaurant
+20.45
+3
+Carioca Restaurant
+38.90
+3
+Brasileirinho Restaurant
+34.00
+3
+Garota da Gavea Restaurant
+45.50
+3
+Bibi Sucos
+45.00
+3
+Quiosque in the beach
+20.00
+4
+Visit to the Pao de Açucar
+10.50
+4
+The Urca Track
+10.89
+4
+Shopping
+100.32

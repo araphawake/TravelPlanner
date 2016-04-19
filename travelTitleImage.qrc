@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/synthesisImages">
+        <file>travel.jpg</file>
+    </qresource>
+</RCC>
